@@ -1,0 +1,1 @@
+{"kernel_size": [5, 5], "n_conv": 4, "hidden_gru": 32, "input": 12}
